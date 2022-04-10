@@ -15,6 +15,7 @@
 	</p>
 	<p>
 		Add Product, Edit Product Count, Editing price of products and monitoring total sum of sales
+	</p>
   </body>
 
 </html>
